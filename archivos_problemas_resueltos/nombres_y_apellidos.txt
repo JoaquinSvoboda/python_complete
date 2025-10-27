@@ -1,0 +1,16 @@
+los datos son:
+nombre: lucas
+apellido: perez
+---------------
+nombre: joaco
+apellido: svoboda
+---------------
+nombre: jesus
+apellido: jones
+---------------
+nombre: mateo
+apellido: smith
+---------------
+nombre: juan
+apellido: messi
+---------------
