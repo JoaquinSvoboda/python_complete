@@ -27,3 +27,22 @@ espacios = "    Esto es un texto     "
 sin_espacios = espacios.strip()
 print(sin_espacios)
 
+#indice 01234
+texto = "Este es un texto"
+# slicin es seleccionar una partes especifica del texto
+print(texto[7:16])
+print(texto[:-2])
+
+#modificar texto con REPLACE
+curso = " este curso es de javascript"
+print(curso.replace("javascript", "python"))
+
+#separar texto con split
+texto_dividido = texto.split( )
+
+print(texto_dividido)
+
+#Normailzacion
+
+texto2 = "Este texto tiene MAYUSCULAS y minusculas y necesito encontrar ciertas palabras"
+print("mayusculas".lower() in texto2.lower())
